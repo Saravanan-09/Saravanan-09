@@ -1,0 +1,14 @@
+package newProject;
+
+public class helloWorld {
+
+	public static void main(String[] args) {
+		String str = "Hello world";
+		System.out.println(str);
+		System.out.print(str);
+		String[] prod = str.split(" ");
+		System.out.println(prod);
+
+	}
+
+}
