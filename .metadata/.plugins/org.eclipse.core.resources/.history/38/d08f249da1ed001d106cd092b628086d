@@ -20,8 +20,5 @@ public class demoCode {
 	{
 		System.out.println("Audi");
 	}
-	public void hondaCity()
-	{
-		System.out.println("hondaCity");
-	}
+
 }

@@ -6,7 +6,6 @@ public class deomInheritance extends demoCode {
 		
   demoCode DC = new demoCode();
   DC.Audi();
-  DC.Nissan();
-  }
+	}
 
 }
